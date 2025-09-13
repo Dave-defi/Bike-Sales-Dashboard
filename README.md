@@ -1,3 +1,11 @@
+# 🚴 Bike Sales Dashboard  
+
+## 📊 Dashboard Preview  
+
+![Bike Sales Dashboard](Screenshot%20(16).png)  
+![Bike Sales Dashboard](Screenshot%20(21).png)
+
+
 📌 Project Overview
 
 This project is an interactive Excel Dashboard analyzing bike purchase behavior across different customer demographics.
@@ -32,3 +40,4 @@ The dashboard provides insights into how income, gender, age, education, marital
 	2.	Open in Microsoft Excel.
 
 	3.	Use the slicers to filter by region, marital status, gender, education, and purchase status to explore the data.
+
