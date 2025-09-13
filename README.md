@@ -30,4 +30,5 @@ The dashboard provides insights into how income, gender, age, education, marital
 🚀 How to Use
 	1.	Download the Excel file from this repository.
 	2.	Open in Microsoft Excel.
+
 	3.	Use the slicers to filter by region, marital status, gender, education, and purchase status to explore the data.
